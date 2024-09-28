@@ -8,27 +8,27 @@
 <!-- Language Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red&text_color=444" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red&text_color=9A0000" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=rose" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=rose" />
+  <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red" />
 </picture>
 
 <!-- Overall Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&text_color=444&show_icons=true&hide_rank=true" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&text_color=9A0000&show_icons=true&hide_rank=true" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=rose&show_icons=true&hide_rank=true" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true&hide_rank=true" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=rose&show_icons=true&hide_rank=true" />  
+  <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true&hide_rank=true" />  
 </picture>
 
 <!--  
