@@ -17,7 +17,7 @@
   />
   <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true&hide_rank=true" />  
 </picture>
-  
+
 <!-- Language Stats -->
 <picture>
   <source 
