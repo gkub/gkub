@@ -21,14 +21,14 @@
 <!-- Language Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=10&theme=shadow_red&border_color=DADADA&text_color=DADADA" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=12&theme=shadow_red&border_color=DADADA&text_color=DADADA" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=10&theme=shadow_red" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=12&theme=shadow_red" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=10&theme=shadow_red" />
+  <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&layout=compact&langs_count=12&theme=shadow_red" />
 </picture>
 
 <!--  
