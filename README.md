@@ -1,6 +1,5 @@
 ## Welcome! 
-Sorry that most of my code is private, and the rest is outdated 🫠
-
+<div>Sorry that most of my code is private, and the rest is outdated 🫠</div>
 I'll make some public/open source stuff someday
 <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&layout=donut-vertical&theme=radical" />
 
