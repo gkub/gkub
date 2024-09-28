@@ -8,7 +8,7 @@
 <!-- Language Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=graywhite" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=github_dark" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
@@ -21,7 +21,7 @@
 <!-- Overall Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=graywhite&show_icons=true&hide_rank=true" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=github_dark&show_icons=true&hide_rank=true" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
