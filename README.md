@@ -8,14 +8,14 @@
 <!-- Overall Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&border_color=DADADA&text_color=DADADA&show_icons=true&hide_rank=true" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&border_color=DADADA&text_color=DADADA&show_icons=true" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true&hide_rank=true" 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true&hide_rank=true" />  
+  <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&show_icons=true" /> <!-- &hide_rank=true -->
 </picture>
 
 <!-- Language Stats -->
