@@ -1,4 +1,4 @@
-<h1><span text_color="#444444">Welcome!</span></h1>
+<h1>Welcome!</h1>
 
 <div>
   <p>Sorry that most of my code is private, and the rest is outdated 🫠</p>
