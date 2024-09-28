@@ -1,5 +1,4 @@
-All my code is in private repos, so these language stats are completely off.
-
+## Welcome!
 <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&theme=radical" />
 
 
