@@ -2,7 +2,7 @@
 
 <div>
   <p>Sorry that most of my code is private, and the rest is outdated 🫠</p>
-  <p>I'll make some public/open source stuff someday</p>
+  <p>I'll make some public/open source stuff someday.</p>
 </div>
 
 
