@@ -1,9 +1,9 @@
 <h1>Welcome!</h1>
 
-<img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&layout=donut-vertical&theme=radical" />
-<img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api?username=gkub&show_icons=true&theme=radical" />
+<img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&layout=donut-vertical&theme=shadow_red" />
+<img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api?username=gkub&show_icons=true&theme=shadow_red" />  
 
-<div align="left" margin-top="10px">
+<div align="left">
   <p>Sorry that most of my code is private, and the rest is outdated 🫠</p>
   <p>I'll make some public/open source stuff someday</p>
 </div>
