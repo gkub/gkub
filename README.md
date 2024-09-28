@@ -5,8 +5,31 @@
   <p>I'll make some public/open source stuff someday.</p>
 </div>
 
-<img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red&text_color=444" />
-<img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&show_icons=true&theme=shadow_red&text_color=444&hide_rank=true" />  
+<!-- Language Stats -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=shadow_red&text_color=444" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=rose" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-gkubs-projects.vercel.app/api/top-langs/?username=gkub&theme=rose" />
+</picture>
+
+<!-- Overall Stats -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=shadow_red&text_color=444&show_icons=true&hide_rank=true" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=rose&show_icons=true&hide_rank=true" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-gkubs-projects.vercel.app/api?username=gkub&theme=rose&show_icons=true&hide_rank=true" />  
+</picture>
 
 <!--  
 [![Top Langs](https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
