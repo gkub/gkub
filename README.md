@@ -5,7 +5,7 @@
   <p>I'll make some public/open source stuff someday.</p>
 </div>
 
-<img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub" />
+<img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&theme=shadow_red" />
 <img align="left" alt="gkub's GitHub Stats" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api?username=gkub&show_icons=true&theme=shadow_red" />  
 
 <!--  
