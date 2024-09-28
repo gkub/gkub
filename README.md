@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome! Sorry that most of my code is private 😳
 <img align="left" alt="gkub's Top Languages" src="https://github-readme-stats-kappa-sepia-69.vercel.app/api/top-langs/?username=gkub&theme=radical" />
 
 
