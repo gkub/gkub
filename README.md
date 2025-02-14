@@ -1,8 +1,8 @@
 <h1>Welcome!</h1>
 
 <div>
-  <p>Sorry that most of my code is private, and the rest is outdated 🫠</p>
-  <p>I'll make some public/open source stuff someday.</p>
+  <p>Sorry that most of my code is private (and the rest is outdated 🫠).</p>
+  <p>I'll make some public/open source stuff when I'm finished my degree.</p>
 </div>
 
 <!-- Overall Stats -->
