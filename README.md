@@ -2,7 +2,7 @@
 
 <div>
   <p>Sorry that most of my code is private (and the rest is outdated 🫠).</p>
-  <p>I'll make some public/open source stuff when I'm finished my degree.</p>
+  <p>I'll make some public/open source stuff someday, but for now most of my code is for work or private projects.</p>
 </div>
 
 <!-- Overall Stats -->
