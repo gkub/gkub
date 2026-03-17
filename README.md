@@ -1,8 +1,7 @@
 <h1>Welcome!</h1>
 
 <div>
-  <p>Sorry that most of my code is private (and the rest is outdated 🫠).</p>
-  <p>I'll make some public/open source stuff someday, but for now most of my code is for work or private projects.</p>
+  <p>Most of my code is private or on work accounts, but you'll see me occasionally push some public code here :).</p>
 </div>
 
 <!-- Overall Stats -->
