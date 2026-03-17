@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 
 <div>
-  <p>Most of my code is private or on work accounts, but you'll see me occasionally push some public code here :).</p>
+  <p>Most of my code is private or on work accounts, but you'll see me occasionally push some public code here :)</p>
 </div>
 
 <!-- Overall Stats -->
